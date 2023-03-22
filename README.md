@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Felipe Sandoval and I LOVE coding, tech advances and marketing strategies. 
+My name is Felipe Enmanuel Sandoval Sibada and I LOVE coding, tech advances and marketing strategies. 
 
 I'm passionate about 🆓 FLOSS (Free, Libre, Open Source Software) communities, 🎳 friends, 🎵 music, and 🦐 good food. 🌱 I’m currently learning about automation, and I LOVE IT.
 
