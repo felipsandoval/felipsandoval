@@ -7,7 +7,7 @@ I'm passionate about 🆓 FLOSS (Free, Libre, Open Source Software) communities,
 You have more details about me in my [LinkedIn](https://www.linkedin.com/in/felipesandovalsibada) profile.
 
 💬 Contact
-You can reach me on [Twitter](https:/twitter.com/felipetuitea)
+You can reach me on [Twitter](https://www.twitter.com/felipetuitea)
 
 <!--
 **felipsandoval/felipsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
