@@ -4,7 +4,7 @@ My name is Felipe Sandoval and I LOVE coding, tech advances and marketing strate
 
 I'm passionate about 🆓 FLOSS (Free, Libre, Open Source Software) communities, 🎳 friends, 🎵 music, and 🦐 good food. 🌱 I’m currently learning about automation, and I LOVE IT.
 
-You have more details about me in my [LinkedIn]([https://www.linkedin.com/in/felipesandovalsibada]) profile.
+You have more details about me in my [LinkedIn](https://www.linkedin.com/in/felipesandovalsibada) profile.
 
 💬 Contact
 You can reach me on [Twitter](https:/twitter.com/felipetuitea)
