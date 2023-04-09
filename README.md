@@ -4,7 +4,7 @@ My name is Felipe Enmanuel Sandoval Sibada and I LOVE coding, tech advances and 
 
 I'm passionate about 🆓 FLOSS (Free, Libre, Open Source Software) communities, 🎳 friends, 🎵 music, and 🦐 good food. 
 
-🌱 I’m currently learning about automation, IA and cybersecurity and I LOVE IT.
+🌱 I’m currently learning about automation, IA and cybersecurity.
 
 You have more details about me in my [LinkedIn](https://www.linkedin.com/in/felipesandovalsibada) profile.
 
