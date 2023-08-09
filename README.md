@@ -6,10 +6,10 @@ I'm passionate about 🆓 FLOSS (Free, Libre, Open Source Software) communities,
 
 🌱 I’m currently learning about automation, IA and cybersecurity.
 
-You have more details about me in my [LinkedIn](https://www.linkedin.com/in/felipesandovalsibada) profile.
+You have more details about me in my [website](https://www.felipsandoval.com) or in my [LinkedIn](https://www.linkedin.com/in/felipesandovalsibada) profile.
 
 💬 Contact
-You can reach me on [Twitter](https://www.twitter.com/felipetuitea) or through this [contact landing page](https://felipsandoval.github.io/)
+You can reach me on [X (Twitter nostalgia)](https://www.twitter.com/felipsandovalx) or through this [contact landing page](https://felipsandoval.github.io/)
 
 <!--
 **felipsandoval/felipsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
