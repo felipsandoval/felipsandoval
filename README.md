@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning about automation, IA, and UX design.
 
-😄 Let's Chat: Unleash Your Ideas, Collab, or Just Say Hi! Reach me through this [website](https://www.felipsandoval.com) or on [LinkedIn](https://www.linkedin.com/in/felipesandovalsibada) profile.
+😄 Let's Chat: Unleash Your Ideas, Collab, or Just Say Hi! Reach me through this [website](https://www.felipsandoval.com) or on [LinkedIn](https://www.linkedin.com/in/felipesandovalsibada).
 
 <!--
 **felipsandoval/felipsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
