@@ -6,4 +6,4 @@
 
 ⚠️ this was not generated from a prompt... unless you ask the right one.
 
-🌐 say hi, poke around at felipsandoval.com or connect via linkedin
+🌐 say hi, poke around at [my website](https://www.felipsandoval.com) or connect via [linkedin](https://www.linkedin.com/in/felipesandovalsibada).
