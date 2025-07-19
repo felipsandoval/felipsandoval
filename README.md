@@ -1,22 +1,9 @@
-👋 Hi there! I'm Felipe Sandoval, a multimedia systems engineer that loves many things. 
+👋 hey, i’m Felipe Sandoval — a multimedia systems engineer with big love for tech. automation? yes. artificial intelligence? double yes. weird side projects that may or may not involve multiple icons? absolutely.
 
-💬 Throughout my life, I've been drawn to a wide array of interests, seemingly distinct but truly interconnected. Code, art, UX design, and marketing strategies, all captivate me. I'm also passionate about 🆓 FLOSS (Free, Libre, Open Source Software) communities, 🎳 friends, 🎵 music, and 🦐 good food. 
+🌱 currently diving deeper into automation systems, ai workflows, and design that actually makes sense. did i said i love ux and ui?
 
-🌱 I’m currently learning about automation, IA, and UX design.
+📡 believer in good chats, great meals, and the quiet beauty of watching rockets take off.
 
-😄 Let's Chat: Unleash Your Ideas, Collab, or Just Say Hi! Reach me through this [website](https://www.felipsandoval.com) or on [LinkedIn](https://www.linkedin.com/in/felipesandovalsibada).
+⚠️ this was not generated from a prompt... unless you ask the right one.
 
-<!--
-**felipsandoval/felipsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 say hi, poke around at felipsandoval.com or connect via linkedin
